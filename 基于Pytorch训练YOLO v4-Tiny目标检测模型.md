@@ -4,12 +4,13 @@
 
 YOLO v4-Tiny模型可从GitHub上获得。首先在任意位置新建一个自己的项目文件夹用于存放代码文件（注意文件夹名字及路径中不能有**中文和空格**，否则之后会出现各种问题），打开命令行cd到此文件夹下，运行
 ```
-git clone https://github.com/bubbliiiing/yolov4-tiny-pytorch.git
+git clone https://github.com/pigtigger/Tuling-Plan.git
 ```
 也可以直接从GitHub页面上下载压缩包，或是从百度网盘上下载，
 链接: [https://pan.baidu.com/s/1sOv2ToKaZpwr5vbQv0OzIQ](https://pan.baidu.com/s/1sOv2ToKaZpwr5vbQv0OzIQ) 提取码: x9ag
 
 下载得到的YOLO v4-Tiny文件夹架构如下
+
 ![image.png](https://cdn.nlark.com/yuque/0/2020/png/821701/1601520880119-092bfb35-17e5-4399-a20b-8d12f15fb7b9.png#align=left&display=inline&height=333&margin=%5Bobject%20Object%5D&name=image.png&originHeight=665&originWidth=212&size=21684&status=done&style=none&width=106)
 
 为了简化模型的训练过程，通常我们都会利用已预训练过的模型权重进行迁移学习，也就是将预训练好的模型权重参数作为自己模型的初始权重参数进行训练。因此，除了代码，还需要下载预训练好的模型权重文件。
