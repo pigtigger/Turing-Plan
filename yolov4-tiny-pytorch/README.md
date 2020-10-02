@@ -4,7 +4,7 @@
 
 YOLO v4-Tiny模型可从GitHub上获得。首先在任意位置新建一个自己的项目文件夹用于存放代码文件（注意文件夹名字及路径中不能有**中文和空格**，否则之后会出现各种问题），打开命令行cd到此文件夹下，运行
 ```
-git clone https://github.com/bubbliiiing/yolov4-tiny-pytorch.git
+git clone https://github.com/pigtigger/Tuling-Plan.git
 ```
 也可以直接从GitHub页面上下载压缩包，或是从百度网盘上下载，
 链接: [https://pan.baidu.com/s/1sOv2ToKaZpwr5vbQv0OzIQ](https://pan.baidu.com/s/1sOv2ToKaZpwr5vbQv0OzIQ) 提取码: x9ag
