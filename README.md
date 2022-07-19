@@ -1,2 +1,2 @@
-# 图灵计划
-"全球青少年图灵计划"赛题3教程——制作口罩识别模型并在机器人上进行部署
+# Turing Plan
+Tutorial 3 of "global youth Turing program" - making a mask recognition model and deploying it on a robot
